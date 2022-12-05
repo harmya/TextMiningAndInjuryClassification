@@ -1,4 +1,4 @@
-# TextMiningAndInjuryClassification
+# Text mining and classification of injury narratives
 Mentor : Gaurav Nanda
 Last Project Update : December 2022
 
