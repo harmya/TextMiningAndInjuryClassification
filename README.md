@@ -29,4 +29,4 @@ Set up Data Pipelines using web scraping frameworks to create datasets of social
 Results: We had significant results with a working end to end framework. Models averaged an accuracy of ~75% for predictions on scraped datasets. The One-Vs-Rest model worked with precision (~90) to identify the body part injured and the diagnosis in a case from a textual description. Presented the research at Purdue’s Summer Research Symposium and we are currently writing a technical paper.
 
 ## **Poster for UR Fall Research Conference**
-![Alt text](DURI_FALL_2022_POSTER (1)-1.png)
+![Alt text](poster.png)
