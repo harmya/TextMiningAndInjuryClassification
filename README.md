@@ -18,7 +18,7 @@ By having a clear vision about the purpose of this research, a balance is mainta
 There are a few limitations of using machine learning to classify injury narratives. Firstly, the data is not ubiquitous. Data about certain products cannot be found in textual narratives. Moreover, textual narratives are susceptible to ambiguity in phrasing, choice of words and sarcasm which causes machine learning models to lose accuracy.
 To improve the efficacy of models, substantial manual coding can be required. It is difficult for an algorithm on its own to be able to assign classifications in all categories with the same level of confidence and very difficult to improve the accuracy of computer-generated codes for the small categories.
 
-## **Abstract for Purdue Summer Research Expo**
+## **Abstract for Purdue Summer Research Expo:**
 
 Aim: Human coded data is usually assigned from hospital logs of injury description. It takes months for the data to be available for statistical analysis. This time gap is substantial and many injuries can be prevented if we know about the features of injuries like cause, product involved and nature of injury sooner. Moreover, injuries that are not treated by the hospitals are never logged but can be found as textual narratives in the form of reviews online. 
 Hence, by using machine learning and natural language processing, we aim to solve the aforementioned problems which contribute to Global Health by borrowing the frameworks of computer science.
@@ -28,5 +28,5 @@ Set up Data Pipelines using web scraping frameworks to create datasets of social
 
 Results: We had significant results with a working end to end framework. Models averaged an accuracy of ~75% for predictions on scraped datasets. The One-Vs-Rest model worked with precision (~90) to identify the body part injured and the diagnosis in a case from a textual description. Presented the research at Purdue’s Summer Research Symposium and we are currently writing a technical paper.
 
-## **Poster for UR Fall Research Conference**
+## **Poster for UR Fall Research Conference:**
 ![Alt text](poster.png)
