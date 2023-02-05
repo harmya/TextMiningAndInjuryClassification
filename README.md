@@ -1,5 +1,6 @@
 # Project: Text Mining and Classification of Injury Narratives
-Mentor : Gaurav Nanda
+Research Group: Intelligent Decision Support Systems (INDESS) </br>
+Mentor : Professor Gaurav Nanda </br>
 Last Project Update : December 2022
 
 
