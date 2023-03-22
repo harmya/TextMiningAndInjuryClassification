@@ -2,7 +2,7 @@
 
 Research Group: Intelligent Decision Support Systems (INDESS) </br>
 Mentor : Professor Gaurav Nanda </br>
-Last Project Update : December 2022
+Last Project Update : December 2022 </br>
 Work Presented at: Summer 2023 Research Expo at Purdue, UR Research Conference Fall 2022.
 
 
